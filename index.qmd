@@ -1,7 +1,7 @@
 ---
 title: "Todd Watson"
 image: GC.jpg
-  about:
+about:
   template: jolla
 ---
 
