@@ -1,11 +1,5 @@
 ---
-title: "mysite"
+title: "Todd Watson"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+This is a sample website for a Quarto lesson.
